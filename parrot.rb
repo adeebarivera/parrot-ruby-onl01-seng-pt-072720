@@ -1,1 +1,1 @@
-parrit
+parrot
